@@ -83,7 +83,7 @@
                 "url": "lorem-ipsum",
                 "type": "icon",
                 "icon_class": "lorem-ipsum",
-                "new_window": false
+                "new_window": true
             }
         ]
     },
