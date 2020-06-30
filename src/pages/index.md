@@ -45,32 +45,5 @@ sections:
       - label: View Blog
         url: blog/index.html
         type: button
-  - title: Contact Us
-    section_id: lorem-ipsum
-    subtitle: ''
-    content: ''
-    form_id: Contact
-    form_action: ''
-    form_fields:
-      - type: form_field
-        name: 'Name '
-        label: 'Name:   '
-        default_value: ''
-        options: []
-        is_required: true
-      - type: email
-        name: Email
-        label: 'Email: '
-        default_value: ''
-        options: []
-        is_required: true
-      - type: textarea
-        name: 'Message '
-        label: 'Message: '
-        default_value: ''
-        options: []
-        is_required: false
-    submit_label: Submit
-    type: section_form
 template: advanced
 ---
