@@ -71,7 +71,7 @@ sections:
         label: 'Email  '
         default_value: lorem-ipsum
         options: []
-        is_required: false
+        is_required: true
     submit_label: lorem-ipsum
     type: section_form
 template: advanced
