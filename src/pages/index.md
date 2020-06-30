@@ -69,7 +69,7 @@ sections:
       - type: email
         name: Email
         label: 'Email  '
-        default_value: lorem-ipsum
+        default_value: ''
         options: []
         is_required: true
     submit_label: lorem-ipsum
