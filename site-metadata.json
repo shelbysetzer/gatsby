@@ -9,7 +9,7 @@
             {
                 "label": "Home",
                 "url": "/",
-                "type": "link"
+                "type": "icon"
             },
             {
                 "label": "Portfolio",
