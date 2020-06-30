@@ -68,7 +68,7 @@ sections:
         is_required: true
       - type: email
         name: Email
-        label: 'Email  '
+        label: 'Email: '
         default_value: ''
         options: []
         is_required: true
