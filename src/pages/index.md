@@ -72,12 +72,6 @@ sections:
         default_value: ''
         options: []
         is_required: true
-      - type: form_field
-        name: lorem-ipsum
-        label: lorem-ipsum
-        default_value: lorem-ipsum
-        options: []
-        is_required: false
     submit_label: lorem-ipsum
     type: section_form
 template: advanced
