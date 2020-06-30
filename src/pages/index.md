@@ -62,7 +62,7 @@ sections:
     form_fields:
       - type: form_field
         name: 'Name '
-        label: 'Name: '
+        label: 'Name:   '
         default_value: ''
         options: []
         is_required: true
