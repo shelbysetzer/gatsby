@@ -47,7 +47,7 @@ sections:
         type: button
   - title: Contact Us
     section_id: lorem-ipsum
-    subtitle: We will respond to you in 24 hours or less!
+    subtitle: ''
     content: >-
       ## Lorem ipsum
 
