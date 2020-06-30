@@ -28,7 +28,7 @@ sections:
         content: >-
           Our SCaaS is a subscription service for maintaining and updating your
           Smart Contracts. This includes secure hosting, reporting, and ...
-      - title: BaaS
+      - title: 'Blockchain as a Service '
         content: >-
           In to our SCaaS, we also offer Blockchain as a Service (BaaS). This
           includes SCaaS and Smart Contract Design. Additionally, we develop a
