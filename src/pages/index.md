@@ -48,15 +48,7 @@ sections:
   - title: Contact Us
     section_id: lorem-ipsum
     subtitle: ''
-    content: >-
-      ## Lorem ipsum
-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: ''
     form_id: Contact
     form_action: ''
     form_fields:
