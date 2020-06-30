@@ -93,7 +93,7 @@
                 "new_window": false
             },
             {
-                "label": "lorem-ipsum",
+                "label": "Medium",
                 "url": "lorem-ipsum",
                 "type": "action",
                 "icon_class": "lorem-ipsum",
