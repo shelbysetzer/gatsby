@@ -6,8 +6,8 @@ sections:
     type: section_hero
     title: Decentralized
     content: >-
-      The blockchain revolution and how futurist technology can create a better
-      future for the 99%
+      How the blockchain revolution, cryptocurrency, and other futuristic
+      technologies drive innovation that can eliminate threats from the 1%.
     actions:
       - label: Let's talk
         url: /contact
