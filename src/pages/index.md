@@ -30,9 +30,9 @@ sections:
           Smart Contracts. This includes secure hosting, reporting, and ...
       - title: 'Custom Blockchain Development '
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin.
+          In to our SCaaS, we also offer Blockchain as a Service (BaaS). This
+          includes SCaaS and Smart Contract Design. Additionally, we develop a
+          customized ecosystem for your business needs.
       - title: Service title
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
