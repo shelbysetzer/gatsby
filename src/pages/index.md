@@ -33,7 +33,7 @@ sections:
           In to our SCaaS, we also offer Blockchain as a Service (BaaS). This
           includes SCaaS and Smart Contract Design. Additionally, we develop a
           customized ecosystem for your business needs.
-      - title: Service title
+      - title: 'Training & Certification '
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
