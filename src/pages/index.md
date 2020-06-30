@@ -45,7 +45,7 @@ sections:
       - label: View Blog
         url: blog/index.html
         type: button
-  - title: lorem-ipsum
+  - title: Contact Us
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     content: >-
