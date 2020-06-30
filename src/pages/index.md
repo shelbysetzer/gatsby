@@ -28,7 +28,7 @@ sections:
         content: >-
           Our SCaaS is a subscription service for maintaining and updating your
           Smart Contracts. This includes secure hosting, reporting, and ...
-      - title: Service Title
+      - title: 'Custom Blockchain Development '
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam. Integer commodo sem at
