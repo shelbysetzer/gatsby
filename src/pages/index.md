@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: Decentralized
+    title: Smart Contracts as a Service (SCaaS)
     content: >-
       How the blockchain revolution, cryptocurrency, and other futuristic
       technologies drive innovation that can eliminate threats from the 1%.
