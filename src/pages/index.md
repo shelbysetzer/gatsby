@@ -24,7 +24,7 @@ sections:
         content: >-
           Smart Contracts are... They are used to... We offer them in these
           languages... 
-      - title: SCaaS
+      - title: 'Smart Contracts as a Service '
         content: >-
           Our SCaaS is a subscription service for maintaining and updating your
           Smart Contracts. This includes secure hosting, reporting, and ...
