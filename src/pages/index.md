@@ -24,7 +24,7 @@ sections:
         content: >-
           Smart Contracts are... They are used to... We offer them in these
           languages... 
-      - title: Service Title
+      - title: SCaaS
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
           a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
