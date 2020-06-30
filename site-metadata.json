@@ -75,7 +75,7 @@
                 "label": "GitHub ",
                 "url": "https://www.linkedin.com/",
                 "type": "icon",
-                "icon_class": "fa-github",
+                "icon_class": "fa-github-alt",
                 "new_window": true
             },
             {
