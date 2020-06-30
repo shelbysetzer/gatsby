@@ -96,7 +96,7 @@
                 "label": "Medium",
                 "url": "lorem-ipsum",
                 "type": "icon",
-                "icon_class": "lorem-ipsum",
+                "icon_class": "fa-medium",
                 "new_window": false
             }
         ]
