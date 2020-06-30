@@ -62,7 +62,7 @@ sections:
     form_fields:
       - type: form_field
         name: 'Name '
-        label: lorem-ipsum
+        label: Name
         default_value: lorem-ipsum
         options: []
         is_required: false
