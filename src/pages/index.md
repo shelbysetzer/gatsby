@@ -73,7 +73,7 @@ sections:
         options: []
         is_required: true
       - type: textarea
-        name: lorem-ipsum
+        name: 'Message '
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
