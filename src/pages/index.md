@@ -6,8 +6,8 @@ sections:
     type: section_hero
     title: Smart Contracts as a Service (SCaaS)
     content: >-
-      How the blockchain revolution, cryptocurrency, and other futuristic
-      technologies drive innovation that can eliminate threats from the 1%.
+      We design smart contracts for blockchain platforms and maintain them for
+      you. Need a custom blockchain ecosystem? We’ve got you covered!
     actions:
       - label: Learn more
         url: /contact
