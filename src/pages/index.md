@@ -6,8 +6,8 @@ sections:
     type: section_hero
     title: Decentralized
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      The blockchain revolution and how futurist technology can create a better
+      future for the 99%
     actions:
       - label: Let's talk
         url: /contact
