@@ -72,7 +72,7 @@ sections:
         default_value: ''
         options: []
         is_required: true
-      - type: form_field
+      - type: textarea
         name: lorem-ipsum
         label: lorem-ipsum
         default_value: lorem-ipsum
