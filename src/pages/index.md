@@ -66,7 +66,7 @@ sections:
         default_value: ''
         options: []
         is_required: true
-      - type: email
+      - type: textarea
         name: Email
         label: 'Email  '
         default_value: ''
