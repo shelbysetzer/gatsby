@@ -58,7 +58,7 @@ sections:
 
       - dolor sit amet
     form_id: Contact
-    form_action: lorem-ipsum
+    form_action: ''
     form_fields: []
     submit_label: lorem-ipsum
     type: section_form
