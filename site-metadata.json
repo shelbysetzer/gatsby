@@ -79,7 +79,7 @@
                 "new_window": true
             },
             {
-                "label": "lorem-ipsum",
+                "label": "Reddit",
                 "url": "lorem-ipsum",
                 "type": "action",
                 "icon_class": "lorem-ipsum",
