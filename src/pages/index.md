@@ -59,7 +59,13 @@ sections:
       - dolor sit amet
     form_id: Contact
     form_action: ''
-    form_fields: []
+    form_fields:
+      - type: form_field
+        name: lorem-ipsum
+        label: lorem-ipsum
+        default_value: lorem-ipsum
+        options: []
+        is_required: false
     submit_label: lorem-ipsum
     type: section_form
 template: advanced
