@@ -84,6 +84,13 @@
                 "type": "icon",
                 "icon_class": "fa-reddit",
                 "new_window": true
+            },
+            {
+                "label": "lorem-ipsum",
+                "url": "lorem-ipsum",
+                "type": "action",
+                "icon_class": "lorem-ipsum",
+                "new_window": false
             }
         ]
     },
