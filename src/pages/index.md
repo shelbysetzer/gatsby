@@ -9,7 +9,7 @@ sections:
       How the blockchain revolution, cryptocurrency, and other futuristic
       technologies drive innovation that can eliminate threats from the 1%.
     actions:
-      - label: Let's talk
+      - label: Learn more
         url: /contact
         type: button
   - section_id: latest-projects
