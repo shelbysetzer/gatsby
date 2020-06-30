@@ -61,7 +61,7 @@ sections:
     form_action: ''
     form_fields:
       - type: form_field
-        name: lorem-ipsum
+        name: 'Name '
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
