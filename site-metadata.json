@@ -103,7 +103,7 @@
                 "label": "Email ",
                 "url": "lorem-ipsum",
                 "type": "icon",
-                "icon_class": "fa-envelope",
+                "icon_class": "fa-mail",
                 "new_window": false
             }
         ]
