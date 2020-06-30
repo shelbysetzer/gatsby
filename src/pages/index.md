@@ -9,7 +9,7 @@ sections:
       We design smart contracts for blockchain platforms and maintain them for
       you. Need a custom blockchain ecosystem? We’ve got you covered!
     actions:
-      - label: Learn more
+      - label: Free Consultation
         url: /contact
         type: button
         icon_class: ''
