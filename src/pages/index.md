@@ -70,7 +70,8 @@ sections:
         name: Email
         label: 'Email  '
         default_value: ''
-        options: []
+        options:
+          - lorem-ipsum
         is_required: true
     submit_label: lorem-ipsum
     type: section_form
