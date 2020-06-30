@@ -13,11 +13,6 @@
                 "icon_class": "fa-home"
             },
             {
-                "label": "Portfolio",
-                "url": "/portfolio/",
-                "type": "link"
-            },
-            {
                 "label": "Blog",
                 "url": "/blog/",
                 "type": "link"
