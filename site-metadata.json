@@ -89,7 +89,7 @@
                 "label": "Discord",
                 "url": "lorem-ipsum",
                 "type": "icon",
-                "icon_class": "lorem-ipsum",
+                "icon_class": "fa-discord",
                 "new_window": false
             }
         ]
