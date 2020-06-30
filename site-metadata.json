@@ -91,13 +91,6 @@
                 "type": "icon",
                 "icon_class": "fa-medium",
                 "new_window": false
-            },
-            {
-                "label": "Email ",
-                "url": "lorem-ipsum",
-                "type": "icon",
-                "icon_class": "fa-envelope-open",
-                "new_window": false
             }
         ]
     },
