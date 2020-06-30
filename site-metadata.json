@@ -86,13 +86,6 @@
                 "new_window": true
             },
             {
-                "label": "Discord",
-                "url": "lorem-ipsum",
-                "type": "icon",
-                "icon_class": "fa-discord",
-                "new_window": false
-            },
-            {
                 "label": "Medium",
                 "url": "lorem-ipsum",
                 "type": "icon",
