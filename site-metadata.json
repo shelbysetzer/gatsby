@@ -9,7 +9,8 @@
             {
                 "label": "Home",
                 "url": "/",
-                "type": "icon"
+                "type": "icon",
+                "icon_class": "fa-home"
             },
             {
                 "label": "Portfolio",
