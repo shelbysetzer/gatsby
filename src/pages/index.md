@@ -78,7 +78,7 @@ sections:
         default_value: ''
         options: []
         is_required: false
-    submit_label: lorem-ipsum
+    submit_label: Submit
     type: section_form
 template: advanced
 ---
