@@ -23,11 +23,6 @@
                 "type": "link"
             },
             {
-                "label": "About",
-                "url": "/about/",
-                "type": "link"
-            },
-            {
                 "label": "Contact",
                 "url": "/contact/",
                 "type": "link"
